@@ -1,0 +1,40 @@
+{
+  "name": "Welcomer",
+  "version": "v1.0.1",
+  "description": "Basic Welcomer By 0_0",
+  "main": "Index.js",
+  "author": "ZeroSync",
+  "scripts": {
+    "start": "node Index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvacord": "^5.0.8",
+    "common-tags": "^1.8.0",
+    "discord-xp": "^1.1.7",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.11.0",
+    "economy": "^1.1.0",
+    "features": "^0.1.0",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "got": "^11.8.1",
+    "jimp": "^0.16.1",
+    "mal-scraper": "^2.11.2",
+    "math-expression-evaluator": "^1.3.7",
+    "moment-timezone": "^0.5.32",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.11.13",
+    "ms": "^2.1.3",
+    "nekos.life": "^2.0.7",
+    "os": "^0.1.1",
+    "ping": "^0.4.0",
+    "quick.db": "^7.1.3",
+    "random-puppy": "^1.1.0",
+    "url": "^0.11.0",
+    "util": "^0.12.3"
+  }
+}
